@@ -12,16 +12,15 @@ https://danielagallardu.github.io/viajes-chile-m2/
 
 La estructura de carpetas y archivos del proyecto es la siguiente:
 
-Viajes Chile/
-│
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── img/
-│ └── js/
-│   └── scripts.js
-├── index.html
-└── README.md
+Viajes Chile
+    assets/ 
+        css/ 
+            style.css 
+        img/ 
+        js/
+            scripts.js
+    index.html
+    README.md
 
 
 ## Tecnologías Utilizadas
